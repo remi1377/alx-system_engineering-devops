@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -ltr < ls -lt head
+sort -ltr < ls -lt | head
